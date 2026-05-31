@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggervelete",
+        "uuid": 3038646,
+        "checksum": "6ylnfg"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
